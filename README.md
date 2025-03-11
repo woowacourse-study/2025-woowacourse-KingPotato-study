@@ -39,3 +39,14 @@
     <td align="center">제리</td>
   </tr>
 </table>
+
+## Study Rules
+### 1. 기본 규칙
+1부. 이전 수업 복습하기<br/>
+2부. 스터디 개인 분량 분배<br/>
+3부. 수업 날짜 기준 당일 수업의 요약 및 정리 스터디는 수업 내용을 4파트로 나눈 후 각자 파트를 공부
+
+### 2. Directory Rules
++ 수업 관련 Directory Main Quest
++ 개인 스터디 및 미션 : Side Quest
+
